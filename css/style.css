@@ -213,9 +213,16 @@ table {
 .social .icons > li:hover {
     cursor: pointer;
 }
+.social .fa-twitter:before {
+	cursor: pointer;
+	content: "\f099";
+}
 .social .twitter {
     color: #55acee;
     unicode-bidi: f099
+}
+.social .fa-facebook:before {
+	cursor: pointer;
 }
 .social .facebook {
     color: #4c66a4;
