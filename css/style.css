@@ -215,6 +215,7 @@ table {
 }
 .social .twitter {
     color: #55acee;
+    unicode-bidi: f099
 }
 .social .facebook {
     color: #4c66a4;
